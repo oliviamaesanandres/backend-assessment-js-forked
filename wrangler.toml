@@ -1,3 +1,6 @@
 name = "ma-project"
 main = "src/index.ts"
 compatibility_date = "2023-04-18"
+
+[vars]
+DATABASE_URL = "postgresql://neondb_owner:avesAt8E9CXR@ep-winter-glitter-a4i0cqlc-pooler.us-east-1.aws.neon.tech/products_db?sslmode=require"
